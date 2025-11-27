@@ -5,17 +5,6 @@
   },
   "8316267465": {
     "balance": 0,
-    "pendingDeposits": [
-      {
-        "deposit_id": "RO2025112701480102080",
-        "nominal": 2000,
-        "amount": 2000,
-        "fee": 0,
-        "status": "pending",
-        "qr_image": "https://www.rumahotp.com/image/qr/RO2025112701480102080.png",
-        "created_at": "2025-11-27 07:48:02",
-        "expired_at": "2025-11-27 08:08:02"
-      }
-    ]
+    "pendingDeposits": []
   }
 }
