@@ -1,6 +1,6 @@
 {
   "7744783556": {
-    "balance": 0,
+    "balance": 2000,
     "pendingDeposits": [
       {
         "deposit_id": "RO2025112712493702248",
@@ -8,7 +8,7 @@
         "fee": 0,
         "amount": 2000,
         "qr_image": "https://www.rumahotp.com/image/qr/RO2025112712493702248.png",
-        "status": "pending",
+        "status": "success",
         "created_at": "2025-11-27 18:49:38",
         "expired_at": "2025-11-27 19:09:38",
         "userId": "7744783556"
