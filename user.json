@@ -18,5 +18,9 @@
   "8316267465": {
     "balance": 17000,
     "pendingDeposits": []
+  },
+  "undefined": {
+    "balance": null,
+    "pendingDeposits": []
   }
 }
