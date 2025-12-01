@@ -22,5 +22,9 @@
   "undefined": {
     "balance": null,
     "pendingDeposits": []
+  },
+  "7201236400": {
+    "balance": 0,
+    "pendingDeposits": []
   }
 }
