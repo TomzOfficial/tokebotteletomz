@@ -12,17 +12,6 @@
         "created_at": "2025-11-27 18:49:38",
         "expired_at": "2025-11-27 19:09:38",
         "userId": "7744783556"
-      },
-      {
-        "deposit_id": "RO2026012523104957861",
-        "nominal": 10000,
-        "fee": 0,
-        "amount": 10000,
-        "qr_image": "https://www.rumahotp.com/image/qr/RO2026012523104957861.png",
-        "status": "pending",
-        "created_at": "2026-01-26 05:10:49",
-        "expired_at": "2026-01-26 05:30:49",
-        "userId": "7744783556"
       }
     ]
   },
